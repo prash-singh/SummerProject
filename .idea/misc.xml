@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_back.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_forward.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_gradient.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_home.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_music.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_password.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_person.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_person_outline.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_signup_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_skip.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/ic_user_layout_bg.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/drawable/round.xml" value="0.290625" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_accelerometer.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_calculator.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_click.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_internet.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_light_sensor.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_media_player.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_message.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_musix.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_phone.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_phone_feature.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_quiz.xml" value="0.33886255924170616" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_sensor.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_signupp_page.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_third.xml" value="0.264" />
+        <entry key="..\:/Users/prash/AndroidStudioProjects/SummerProject/app/src/main/res/layout/activity_user_data.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
